@@ -29,6 +29,7 @@ const Offcanvas = props => {
             <p className="text-5xl font-playfair text-white">About Us</p>
             <p className="text-5xl font-playfair text-white">Blogs</p>
             <p className="text-5xl font-playfair text-white">Contact us</p>
+            <p className="text-5xl font-playfair text-white">Log out</p>
             <Button text={"Book an free marketing aduit "} color={"bg-[#FF6E6C]"} />
           </div>
         </div>
@@ -42,6 +43,7 @@ const Offcanvas = props => {
             <p className="text-5xl font-playfair text-white">About Us</p>
             <p className="text-5xl font-playfair text-white">Blogs</p>
             <p className="text-5xl font-playfair text-white">Contact us</p>
+            <p className="text-5xl font-playfair text-white">Log out</p>
             <Button text={"Book an free marketing aduit "} color={"bg-[#FF6E6C]"} />
           </div>
         </div>
